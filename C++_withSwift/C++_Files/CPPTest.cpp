@@ -13,7 +13,12 @@
 using namespace std;
 
 void CPPTest::CPPFunction() {
+int i= -5;
+while(i<0)// Printing argument 5 times
+{
     cout<<"\n This is my C++ Class .cpp\n" <<endl;
+i++;
+}
 }
 
 //  this is cpp file where you do all C++ code
